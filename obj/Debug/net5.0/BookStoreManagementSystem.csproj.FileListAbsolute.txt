@@ -1,0 +1,192 @@
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.exe
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.deps.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.dev.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\scopedcss\bundle\BookStoreManagementSystem.styles.css
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\staticwebassets\BookStoreManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CopyComplete
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\refint\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.genruntimeconfig.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\BookStoreManagementSystem\obj\Debug\net5.0\ref\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.exe
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.deps.json
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.json
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.dev.json
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\scopedcss\bundle\BookStoreManagementSystem.styles.css
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\staticwebassets\BookStoreManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CopyComplete
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\refint\BookStoreManagementSystem.dll
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\BookStoreManagementSystem.genruntimeconfig.cache
+C:\Users\Saad Shamim\Desktop\Book Store Management System\BookStoreManagementSystem\obj\Debug\net5.0\ref\BookStoreManagementSystem.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\appsettings.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.exe
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.deps.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.runtimeconfig.dev.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Humanizer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\staticwebassets\BookStoreManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\scopedcss\bundle\BookStoreManagementSystem.styles.css
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\ref\BookStoreManagementSystem.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\BookStoreManagementSystem.genruntimeconfig.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\ref\BookStoreManagementSystem.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStoreManagementSystem Entity Framework\obj\Debug\net5.0\staticwebassets\BookStoreManagementSystem.StaticWebAssets.xml
